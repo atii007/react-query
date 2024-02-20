@@ -19,6 +19,7 @@ const pages = [
   { name: "Home", href: "/" },
   { name: "Traditional Super Heroes", href: "/heroes-page" },
   { name: "RQ Super Heroes", href: "/rq-heroes" },
+  { name: "Dependent Queries", href: "/rq-dependent" },
 ];
 const settings = ["Profile", "Account", "Dashboard", "Logout"];
 
